@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/njsrikar/raspiNodejsGpio/issues"
   },
-  "homepage": "https://github.com/njsrikar/raspiNodejsGpio#readme"
+  "homepage": "https://github.com/njsrikar/raspiNodejsGpio#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "pi-gpio": "0.0.8"
+  }
 }
